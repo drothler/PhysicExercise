@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __thiscall MassSpringSystemSimulator::MassSpringSystemSimulator(void)" (??0MassSpringSystemSimulator@@QAE@XZ)" in Funktion "_main".
+C:\Users\krank\Documents\GitHub\PhysGrund - Copy\Win32\Debug\SimulationsRunner_2017.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
